@@ -4,7 +4,7 @@ import glob
 import os
 
 #change the directory to current directory
-os.chdir('I:\\BigDataProjects\\My Github\\10.pdfFromHtml\\')
+os.chdir('current directory ')
 
 #configure the path where wkhtmltopdf is installed
 #If anaconda is used then it is present in anaconda folder then \wkhtmltopdf
